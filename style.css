@@ -1,0 +1,152 @@
+
+body {
+    background-color: rgb(249, 254, 255);
+   
+ 
+  }
+  header {
+    background-color:rgba(20,30,13, .7);
+    
+}
+nav a:hover {
+    background-color: black;
+    text-decoration: none;
+}
+    
+  h1 {
+    color: rgb(92, 190, 177);
+    margin-left: 20px;
+    text-align: center;
+  }
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+   
+  }
+  #background {
+    height: 725px;
+    
+  }
+  #hero-msg h1  {
+    text-align: center;
+    background-color: rgb(249, 254, 255);
+    margin: 0 auto;
+   
+}
+#hero-msg h4  {
+    
+    background-color: rgb(249, 254, 255);
+    text-align: center;
+    margin: 0 auto;
+}
+.button-box  {
+    text-align: center;
+    background-color: rgb(249, 254, 255);
+    margin: 0 auto;
+    
+}
+main section {
+    background-color: rgb(171, 210, 199);
+}
+
+.logo {
+    width: 80px;
+}
+#hero-img {
+    width: 100px;
+    margin: 150px;
+}
+nav a {
+    text-align: center;
+    color: #060606;
+    text-decoration: none;
+}  
+
+footer a {
+    text-align: center;
+    color: #0f0e0e;
+    text-decoration: none;
+    background-color:rgb(220, 193, 136);
+    color: #000000;
+}  
+
+.join {
+    text-align: center;
+    color: #060606;
+    text-decoration: none;
+}  
+
+.book {
+    text-align: center;
+    color: #a29c9c;
+    text-decoration: none;
+}  
+nav a {
+    text-align: center;
+    color: #ada9a9;
+    text-decoration: none;
+}  
+footer p {
+    font-size: 1.2em;
+}  
+footer p a:hover {
+    text-decoration: underline;
+}    
+div {
+    
+    margin: 100px;
+    
+}
+nav a:hover {
+    background-color: rgb(92, 192, 174);
+    color: #cfedea;
+}    
+.home-title {
+    background-color: black;
+    color: #987e5d;
+}    
+   
+h4 {
+    background-color: black;
+    color: #6fb7b4;
+}    
+   
+.book:hover {
+    background-color: rgb(220, 193, 136);
+    color: #070907;
+    text-align: center;
+}    
+   
+.join:hover
+{
+    background-color: rgb(220, 193, 136);
+    color: #171411;
+    text-align: center;
+}    
+.msg h2 {
+    background-color: rgb(220, 193, 136);
+    color: #0a0806;
+    text-align: center;
+}  
+.msg p {
+    background-color: rgb(220, 193, 136);
+    color: #0f0b06;
+    text-align: center;
+}     
+
+footer {
+    background-color: rgb(220, 193, 136);
+    color: #0b0a08;
+}  
+footer a:hover {
+    background-color:rgb(220, 193, 136);
+    color: #0d0c0a;
+}  
+div {
+    max-width: center;
+  width: center;
+  margin: 100px;
+  }
+  
